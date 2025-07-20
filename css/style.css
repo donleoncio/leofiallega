@@ -132,7 +132,17 @@
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	margin: 0 auto var(--spacing-l);
+	margin: 0 auto;
+	position: relative;
+	z-index: 2;
+	transform: translateY(50%);
+}
+
+.hero-section {
+	background-color: #ffffff;
+	position: relative;
+	z-index: 1;
+	padding-bottom: 8rem;
 }
 
 /* Typography Scale */
