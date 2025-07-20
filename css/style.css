@@ -112,7 +112,7 @@
 
 /* Avatar */
 .avatar {
-	width: 16rem;             /* 128px */
+	width: 24rem;             /* 128px */
 	height: 16rem;
 	border-radius: 50%;
 	object-fit: cover;
@@ -223,7 +223,7 @@ a:hover {
 /* Avatar
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .avatar {
-	width: 16rem;             /* 128px */
+	width: 24rem;             /* 128px */
 	height: 16rem;
 	object-fit: cover;
 	background-position: center;
